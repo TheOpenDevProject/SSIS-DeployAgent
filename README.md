@@ -9,9 +9,13 @@ Deploying SSIS packages is an ancient ritual and it sucks, there is basically ze
 **Project Goals:**
 
 [] - Highly configurable: Any branching model, any deployment structure at any scale.
+
 [] - Compatible with any CI/CD platform that can make web requests. (Pipeline mode)
+
 [] - Provide webhooks for git platforms that support such to trigger builds / deployments. (Stand alone mode)
+
 [] - Test Automation: Create an isolated environment to run SSIS package in and report the execution results (Via SSIS Logging)
+
 [] - Deployment notifications
 
 ---
