@@ -1,0 +1,6 @@
+git-url: "http://github.com/user/project_name"
+branches:
+  master:
+    server-catalogue: "Project Name Production"
+  develop:
+    server-catalogue: "Project Name Production"

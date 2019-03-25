@@ -1,0 +1,10 @@
+[package]
+name = "SSIS-DeployAgent"
+version = "0.1.0"
+authors = ["Jesse Bud <jbud@cloudstratagem.com.au>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.0"
+rocket_codegen = "0.4.0"
+git2 = "0.8.0"
